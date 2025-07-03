@@ -1,8 +1,8 @@
 
 ## Description
-User Authentication System.
+Blog System.
 
-This API provides the following Endpoints check the documentation [here](https://mentorleduserauth.onrender.com) 
+This API provides the following Endpoints check the documentation [here](https://mentorledblog.onrender.com) 
 ## added features
 Added Features:
 1. Register(create new user):
@@ -21,7 +21,7 @@ The following steps outline will set you up on how to install the app on your lo
 1. 
 ```bash
 # Clone this repository 
-git clone https://github.com/salimkarbm/caching-proxy.git
+git clone https://github.com/salimkarbm/mentorledblog.git
 ```
 2. 
 ```bash
@@ -63,7 +63,7 @@ $ npm run test:cov
 ```
 
 ## Deployment
-The endpoints available for interacting with the API can be found in the Documentation:[here](https://mentorleduserauth.onrender.com) 
+The endpoints available for interacting with the API can be found in the Documentation:[here](https://mentorledblog.onrender.com) 
 
 
 ## :handshake: Contributing
